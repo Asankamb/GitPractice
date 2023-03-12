@@ -9,4 +9,8 @@ public class Login {
     public void print(){
         System.out.println("Hello GIT");
     }
+    public void setText()
+    {
+    System.out.println("hello kitty");
+    }
 }
