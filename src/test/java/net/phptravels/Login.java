@@ -11,6 +11,6 @@ public class Login {
     }
     public void setText()
     {
-    System.out.println("hello amma");
+    System.out.println("hello kitty");
     }
 }
